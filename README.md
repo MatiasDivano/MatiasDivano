@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my README page for the university. Not much to tell, as it's not my personal GitHub profile.
+Esta es mi pagina README para la universidad. No hay mucho que decir, ya que no es mi perfil de GitHub personal.
 <!--
 **MatiasDivano/MatiasDivano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
